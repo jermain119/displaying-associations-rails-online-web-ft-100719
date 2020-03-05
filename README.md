@@ -1,3 +1,6 @@
+
+
+\
 # Displaying Associations Rails
 
 ## Objectives
